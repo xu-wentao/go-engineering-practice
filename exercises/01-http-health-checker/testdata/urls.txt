@@ -1,0 +1,4 @@
+# Sample targets
+https://example.com
+http://localhost:8080/healthz
+http://localhost:9090/-/ready
